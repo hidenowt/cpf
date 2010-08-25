@@ -1,0 +1,2 @@
+- Ajuda
+-- Alguem gostaria de ajudar a contribuir com esse projeto?
