@@ -1,5 +1,4 @@
-module Cpf
-  def self.numero
-    "111111111112"
-  end
+require 'cpf/brcpf'
+class Cpf
+  include BrCpf
 end
