@@ -1,2 +1,4 @@
-- Ajuda
--- Alguem gostaria de ajudar a contribuir com esse projeto?
+= Ajuda
+Alguem gostaria de ajudar a contribuir com esse projeto?
+Vou ver se escrevo algo para a versao 0.2.1 da gem de cpf
+bem manda uma mensagem aqui no github que eu coloco como administrador do projeto.
