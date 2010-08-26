@@ -1,4 +1,4 @@
-module BrCpf
+module CPF
   
   attr_reader :numero
 

@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "cpf"
-  s.version     = "0.2.0"
+  s.version     = "0.2.1"
   s.authors     = ["Herminio Torres"]
   s.email       = ["herminiocesar@gmail.com"]
   s.homepage    = "http://github.com/hidenowt/cpf"
@@ -13,5 +13,5 @@ Gem::Specification.new do |s|
 
   s.rubyforge_project = 'cpf'
   
-  s.files = Dir["{lib/**/*.rb,README.rdoc,test/**/*.rb,Rakefile.*gemspec}"]
+  s.files = Dir["{lib/**/*.rb,README.rdoc,spec/**/*.rb,Rakefile,*gemspec}"]
 end

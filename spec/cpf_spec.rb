@@ -1,8 +1,8 @@
-require "spec/../lib/cpf"
+require "spec/../lib/brcpf"
 
-describe Cpf, "CPF_BLACK_LIST" do
+describe Brcpf, "CPF_BLACK_LIST" do
   it "return nil if number in list cpf black list" do
-    cpf = Cpf.new(11111111111)
+    cpf = Brcpf.new(11111111111)
     cpf.numero.should == nil
   end
 end
