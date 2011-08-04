@@ -3,4 +3,4 @@ Alguem gostaria de ajudar a contribuir com esse projeto?
 Vou ver se escrevo algo para a versao 0.2.1 da gem de cpf
 bem manda uma mensagem aqui no github que eu coloco como administrador do projeto.
 == CPF_BLACK_LIST
-Bem um cpf por exemplo '11111111111' é tipo como valido por questões do calculo do cpf, mas não é aceito como valido, por isso existe uma lista com esses cpf e é preciso fazer a verificacao.
+Valide o numero do CPF através do digito verificador, além de blacklist como por exemplo o numero '11111111111' é tipo como valido por questões do calculo do cpf, mas não é aceito como valido, por isso existe uma lista com esses cpf e é preciso fazer a verificacao.
